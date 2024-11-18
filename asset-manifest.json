@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shady-menu/static/css/main.02a01c20.css",
+    "main.js": "/shady-menu/static/js/main.349281e2.js",
+    "static/js/453.68d03b6f.chunk.js": "/shady-menu/static/js/453.68d03b6f.chunk.js",
+    "static/media/logo.JPG": "/shady-menu/static/media/logo.e684a1545fcc6fd3ad41.JPG",
+    "index.html": "/shady-menu/index.html",
+    "main.02a01c20.css.map": "/shady-menu/static/css/main.02a01c20.css.map",
+    "main.349281e2.js.map": "/shady-menu/static/js/main.349281e2.js.map",
+    "453.68d03b6f.chunk.js.map": "/shady-menu/static/js/453.68d03b6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02a01c20.css",
+    "static/js/main.349281e2.js"
+  ]
+}
