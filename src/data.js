@@ -1,0 +1,121 @@
+const menu = [
+  {
+    id: 1,
+    title: 'Buttermilk Pancakes',
+    category: 'breakfast',
+    price: 15.99,
+    img: './images/item-1.jpeg',
+    desc: 'Fluffy buttermilk pancakes served with maple syrup, whipped butter, and your choice of bacon or sausage.',
+    calories: 680,
+    protein: 18,
+    carbs: 85,
+    fat: 27,
+    allergens: ['dairy', 'wheat']
+  },
+  {
+    id: 2,
+    title: 'Diner Double Burger',
+    category: 'lunch',
+    price: 13.99,
+    img: './images/item-2.jpeg',
+    desc: 'Two beef patties, American cheese, lettuce, tomato, onion, and our signature diner sauce on a toasted brioche bun.',
+    calories: 920,
+    protein: 52,
+    carbs: 54,
+    fat: 48,
+    allergens: ['dairy', 'wheat']
+  },
+  {
+    id: 3,
+    title: 'Godzilla Milkshake',
+    category: 'shakes',
+    price: 6.99,
+    img: './images/item-3.jpeg',
+    desc: 'A towering milkshake made with vanilla ice cream, chocolate syrup, whipped cream, and crushed Oreo cookies.',
+    calories: 850,
+    protein: 14,
+    carbs: 110,
+    fat: 36,
+    allergens: ['dairy', 'wheat']
+  },
+  {
+    id: 4,
+    title: 'Country Delight',
+    category: 'breakfast',
+    price: 20.99,
+    img: './images/item-4.jpeg',
+    desc: 'Two eggs cooked to order, served with crispy hash browns, sourdough toast, and your choice of breakfast meat.',
+    calories: 570,
+    protein: 24,
+    carbs: 52,
+    fat: 31,
+    allergens: ['dairy', 'wheat']
+  },
+  {
+    id: 5,
+    title: 'Egg Attack',
+    category: 'lunch',
+    price: 22.99,
+    img: './images/item-5.jpeg',
+    desc: 'Two fried eggs, bacon, avocado, and cheddar cheese on a toasted brioche bun, served with fries.',
+    calories: 800,
+    protein: 32,
+    carbs: 60,
+    fat: 44,
+    allergens: ['dairy', 'wheat']
+  },
+  {
+    id: 6,
+    title: 'Oreo Dream',
+    category: 'shakes',
+    price: 18.99,
+    img: './images/item-6.jpeg',
+    desc: 'A rich and creamy Oreo-infused milkshake topped with whipped cream and crushed Oreo cookies.',
+    calories: 920,
+    protein: 16,
+    carbs: 120,
+    fat: 44,
+    allergens: ['dairy', 'wheat']
+  },
+  {
+    id: 7,
+    title: 'Bacon Overflow',
+    category: 'breakfast',
+    price: 8.99,
+    img: './images/item-7.jpeg',
+    desc: 'Three eggs cooked to order, served with a generous portion of crispy bacon and your choice of toast.',
+    calories: 620,
+    protein: 26,
+    carbs: 30,
+    fat: 42,
+    allergens: ['dairy', 'wheat']
+  },
+  {
+    id: 8,
+    title: 'American Classic',
+    category: 'lunch',
+    price: 12.99,
+    img: './images/item-8.jpeg',
+    desc: 'A classic cheeseburger with lettuce, tomato, onion, and our special sauce, served with fries.',
+    calories: 790,
+    protein: 40,
+    carbs: 50,
+    fat: 42,
+    allergens: ['dairy', 'wheat']
+  },
+  {
+    id: 9,
+    title: 'Quarantine Buddy',
+    category: 'shakes',
+    price: 16.99,
+    img: './images/item-9.jpeg',
+    desc: 'A creamy peanut butter milkshake with chocolate syrup, whipped cream, and crushed Reese\'s Peanut Butter Cups.',
+    calories: 980,
+    protein: 22,
+    carbs: 110,
+    fat: 52,
+    allergens: ['dairy', 'peanuts', 'wheat']
+  }
+];
+
+export default menu;
